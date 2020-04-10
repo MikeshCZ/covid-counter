@@ -10,9 +10,12 @@ For online data I used API from [arcgis](https://coronavirus-disasterresponse.hu
 - Under “From fields”, check “Last_Update”, “Confirmed”, “Deaths”, “Recovered” and the rest off.
 - At “Output options” you set “Request geometry” to “False”.
 
+![api selection](img/api_selection.jpg)
+
+
 For parsing json data received back I used online [ArduinoJson Assistant](https://arduinojson.org/v6/assistant/).
 
-## Arduino libraries
+## Libraries
 You will need following libraries
 - [TM1637Display](https://github.com/avishorp/TM1637)
 - [ESP8266WiFiMulti](https://github.com/esp8266/Arduino)
