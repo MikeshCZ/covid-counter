@@ -1,5 +1,7 @@
 # Covid counter
-Covid counter display actual information about confirmed, recovered and deaths in local area
+Covid counter display actual information about confirmed, recovered and deaths in local area.
+
+[![Covid counter](http://img.youtube.com/vi/dv8wcsZkA7k/0.jpg)](http://www.youtube.com/watch?v=dv8wcsZkA7k)
 
 ## About
 I used NodeMCU with ESP8266 and wifi module.
